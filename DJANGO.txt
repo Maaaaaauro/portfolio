@@ -1,0 +1,29 @@
+Nivel básico
+
+    Aprende los conceptos básicos de Python, ya que Django está construido en Python.
+    Aprende los conceptos básicos de HTML, CSS y JavaScript, ya que Django se utiliza para construir aplicaciones web.
+    Aprende los conceptos básicos de bases de datos relacionales y SQL.
+
+Nivel intermedio
+
+    Aprende los conceptos básicos de Django, como la arquitectura del framework, el enrutamiento de URLs, las vistas y las plantillas.
+    Aprende a crear modelos de bases de datos en Django, trabajar con ORM (Object-Relational Mapping) y realizar consultas en bases de datos.
+    Aprende a crear formularios en Django y a procesar datos de formularios.
+    Aprende a trabajar con sesiones, autenticación y autorización en Django.
+    Aprende a crear vistas basadas en clases y a trabajar con la API de Django Rest Framework para crear una API web.
+    Aprende a implementar y trabajar con herramientas de frontend como Bootstrap y jQuery en Django.
+
+Nivel avanzado
+
+    Aprende a trabajar con Django Channels para crear aplicaciones web en tiempo real utilizando WebSockets.
+    Aprende a trabajar con Django Celery y RabbitMQ para crear tareas en segundo plano y programar tareas.
+    Aprende a trabajar con Elasticsearch y Redis en Django para implementar búsquedas y caché en tu aplicación.
+    Aprende a trabajar con Django CMS y Wagtail para construir sitios web complejos y dinámicos.
+    Aprende a escalar aplicaciones Django en diferentes entornos y a optimizar el rendimiento de la aplicación.
+
+Ejercicios y proyectos
+
+    Crea una aplicación web simple de blog en Django que permita a los usuarios crear publicaciones de blog, ver publicaciones de otros usuarios y comentar en ellas.
+    Crea una aplicación web de comercio electrónico en Django que permita a los usuarios ver productos, agregarlos a su carrito de compras y realizar compras.
+    Crea una aplicación web de gestión de tareas en Django que permita a los usuarios crear y administrar tareas y asignarlas a otros usuarios.
+    Crea una aplicación web de redes sociales en Django que permita a los usuarios crear perfiles, seguir a otros usuarios y compartir publicaciones.
