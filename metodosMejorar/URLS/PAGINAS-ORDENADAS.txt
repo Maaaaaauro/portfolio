@@ -1,0 +1,10 @@
+
+    #ex: /news/
+    path("", views.index,name='index'),
+    #ex: /news/5
+    path('<int:question_id>/',views.detail,name='detail'),
+    #ex:/news/5/results/
+    path('<int:question_id>/result/',views.result,name='results'),
+    #ex:/news/5/vote/
+    path('<int:question_id>/vote/',views.vote,name="vote"),
+    """
