@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+
+{% load static %}
+
+{% block title %} {{project.title}} {% endblock %}
+{% block aditional_styles %}<link rel="stylesheet" href="{% static 'css/detail_style.css' %}">{% endblock %}
+
+{% block content %}
+    <li> Proyecto </li>
+    <ul>
+        <li>{{project.description}}</li>
+        <li>{{project.date_loaded}}</li>
+        <li>{{project.img_loaded}}</li>
+        <li>{{project.language_add}}</li>
+    </ul>
+{% endblock %}
+
